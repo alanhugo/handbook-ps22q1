@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alanhugo.github.io/handbook-ps22q1/sitemap.xml
